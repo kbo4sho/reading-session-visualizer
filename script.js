@@ -167,8 +167,8 @@ class ReadingSessionTracker {
                 datasets: [{
                     label: 'Reading Time (seconds)',
                     data: durations,
-                    backgroundColor: 'rgba(102, 126, 234, 0.8)',
-                    borderColor: 'rgba(102, 126, 234, 1)',
+                    backgroundColor: 'rgba(255, 214, 165, 0.9)',
+                    borderColor: 'rgba(255, 184, 107, 1)',
                     borderWidth: 2,
                     borderRadius: 8,
                     borderSkipped: false,
